@@ -18,4 +18,8 @@ Code:- <br>
 ![exp2](https://github.com/VandanGupte101727/CDS-experiment-2/blob/main/Screenshot%202024-07-30%20at%204.07.23%20PM.png)
 
 
+output:- <br>
+![exp2}(https://github.com/VandanGupte101727/CDS-experiment-2/blob/main/Screenshot%202024-07-30%20at%204.03.58%20PM.png)
+
+
 Conclusion:- in this experiment we learnt to check the size of data types and made program using storage class
