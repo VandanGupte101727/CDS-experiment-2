@@ -14,40 +14,41 @@ These classes help manage how and where data is stored and accessed within a pro
 Code for the program:<br>
 Size of Datatypes:<br>
 
-CODE:-#include <iostream>
-using namespace std;
-int main()
-{
-    int a;
-    char b;
-    short int c;
-    long int d;
-    float e;
-    double f;
-    wchar_t g;
-    signed short int h;
-    unsigned short int i;
-    signed long int j;
-    unsigned long int k;
-    long long int l;
-    unsigned long long int m;
-    long double n;
-    cout<<"Size of integer: "<<sizeof(a)<<" bytes"<<endl;
-    cout<<"Size of character: "<<sizeof(b)<<" byte"<<endl;
-    cout<<"Size of short int: "<<sizeof(c)<<" bytes"<<endl;
-    cout<<"Size of long int: "<<sizeof(d)<<" bytes"<<endl;
-    cout<<"Size of float: "<<sizeof(e)<<" bytes"<<endl;
-    cout<<"Size of double: "<<sizeof(f)<<" bytes"<<endl;
-    cout<<"Size of wide character: "<<sizeof(g)<<" bytes"<<endl;
-    cout<<"Size of signed short int: "<<sizeof(h)<<" bytes"<<endl;
-    cout<<"Size of unsigned short int: "<<sizeof(i)<<" bytes"<<endl;
-    cout<<"Size of signed long int: "<<sizeof(j)<<" bytes"<<endl;
-    cout<<"Size of unsigned long int: "<<sizeof(k)<<" bytes"<<endl;
-    cout<<"Size of long long int: "<<sizeof(l)<<" bytes"<<endl;
-    cout<<"Size of unsigned long long int: "<<sizeof(m)<<" bytes"<<endl;
-    cout<<"Size of long double: "<<sizeof(n)<<" bytes"<<endl;
-    return 0;
+CODE:-<br>
+#include <iostream><br>
+using namespace std;<br>
+int main()<br>
+{<br>
+    int a;<br>
+    char b;<br>
+    short int c;<br>
+    long int d;<br>
+    float e;<br>
+    double f;<br>
+    wchar_t g;<br>
+    signed short int h;<br>
+    unsigned short int i;<br>
+    signed long int j;<br>
+    unsigned long int k;<br>
+    long long int l;<br>
+    unsigned long long int m;<br>
+    long double n;<br>
+    cout<<"Size of integer: "<<sizeof(a)<<" bytes"<<endl;<br>
+    cout<<"Size of character: "<<sizeof(b)<<" byte"<<endl;<br>
+    cout<<"Size of short int: "<<sizeof(c)<<" bytes"<<endl;<br>
+    cout<<"Size of long int: "<<sizeof(d)<<" bytes"<<endl;<br>
+    cout<<"Size of float: "<<sizeof(e)<<" bytes"<<endl;<br>
+    cout<<"Size of double: "<<sizeof(f)<<" bytes"<<endl;<br>
+    cout<<"Size of wide character: "<<sizeof(g)<<" bytes"<<endl;<br>
+    cout<<"Size of signed short int: "<<sizeof(h)<<" bytes"<<endl;<br>
+    cout<<"Size of unsigned short int: "<<sizeof(i)<<" bytes"<<endl;<br>
+    cout<<"Size of signed long int: "<<sizeof(j)<<" bytes"<<endl;<br>
+    cout<<"Size of unsigned long int: "<<sizeof(k)<<" bytes"<<endl;<br>
+    cout<<"Size of long long int: "<<sizeof(l)<<" bytes"<<endl;<br>
+    cout<<"Size of unsigned long long int: "<<sizeof(m)<<" bytes"<<endl;<br>
+    cout<<"Size of long double: "<<sizeof(n)<<" bytes"<<endl;<br>
+    return 0;<br>
 
-}
+}<br>
 
 Conclusion:- in this experiment we learnt to check the size of data types and made program using storage class
