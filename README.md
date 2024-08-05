@@ -51,4 +51,7 @@ int main()<br>
 
 }<br>
 
+OUTPUT:-
+![exp2](https://github.com/VandanGupte101727/CDS-experiment-2/blob/main/Screenshot%202024-08-05%20at%203.03.08%20PM.png)
+
 Conclusion:- in this experiment we learnt to check the size of data types and made program using storage class
